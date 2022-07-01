@@ -5,8 +5,8 @@ This repository shows our contribution to this data challenge organized by EY. W
 The objective was to precisely identify forest fires on grayscale images. The real challenge was to deal with only few annotated images. Here is an example of the dataset: 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/louisreberga/ey-data-challenge-2021/main/images/dataset_0.png" width="400" />
   <img src="https://raw.githubusercontent.com/louisreberga/ey-data-challenge-2021/main/images/dataset_1.png" width="400" />
+  <img src="https://raw.githubusercontent.com/louisreberga/ey-data-challenge-2021/main/images/dataset_2.png" width="400" />
 </p>
 
 ## Our results

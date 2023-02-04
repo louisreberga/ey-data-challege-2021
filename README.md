@@ -1,4 +1,4 @@
-#  2021 Better Working World Data Challenge
+# 2021 Better Working World Data Challenge - Fire mapping
 This repository shows our contribution to this data challenge organized by EY. We have finished 2nd in the French ranking and 20th in the Global one. 
 
 ## The challenge
